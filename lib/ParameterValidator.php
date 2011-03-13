@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Abstract class for EchoNest_Api classes
+ * Basic Parameter Validator
  *
  * @author    Brent Shaffer <bshafs at gmail dot com>
  * @license   MIT License

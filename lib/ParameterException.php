@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Request communication error
+ * Parameter Validation Error
  *
  * @author    Brent Shaffer <bshafs at gmail dot com>
  * @license   MIT License
