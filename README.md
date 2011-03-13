@@ -56,5 +56,8 @@ Pipe validator constants together to accept multiple types of parameters
 
 ## TODO
 
-Add Required, Add Enums, ETC
+ * Add Required
+ * Add Enums, ETC
+ * Add Regex
+ * Add a dissertation on whether or not this is still basic if these other things are added
 
